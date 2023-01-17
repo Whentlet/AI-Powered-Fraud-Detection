@@ -7,3 +7,4 @@ Activity on 2023-01-11T00:00:00 - Fix typo
 Activity on 2023-01-16T00:00:00 - Add logging
 Activity on 2023-01-16T00:00:00 - Add unit tests
 Activity on 2023-01-17T00:00:00 - Fix typo
+Activity on 2023-01-17T00:00:00 - Add model training script
