@@ -50,3 +50,4 @@ Activity on 2023-04-26T00:00:00 - Clean up code
 Activity on 2023-05-01T00:00:00 - Clean up code
 Activity on 2023-05-05T00:00:00 - Add model training script
 Activity on 2023-05-09T00:00:00 - Add new feature
+Activity on 2023-05-11T00:00:00 - Fix minor bug
