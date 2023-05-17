@@ -52,3 +52,4 @@ Activity on 2023-05-05T00:00:00 - Add model training script
 Activity on 2023-05-09T00:00:00 - Add new feature
 Activity on 2023-05-11T00:00:00 - Fix minor bug
 Activity on 2023-05-11T00:00:00 - Update dependencies
+Activity on 2023-05-17T00:00:00 - Refactor utility functions
