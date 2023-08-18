@@ -93,3 +93,4 @@ Activity on 2023-08-16T00:00:00 - Update dependencies
 Activity on 2023-08-16T00:00:00 - Initial project setup
 Activity on 2023-08-18T00:00:00 - Add model training script
 Activity on 2023-08-18T00:00:00 - Add unit tests
+Activity on 2023-08-18T00:00:00 - Improve documentation
