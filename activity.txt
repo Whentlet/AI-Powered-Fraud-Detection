@@ -148,3 +148,4 @@ Activity on 2023-11-27T00:00:00 - Add model training script
 Activity on 2023-11-29T00:00:00 - Update dependencies
 Activity on 2023-11-30T00:00:00 - Improve documentation
 Activity on 2023-12-01T00:00:00 - Fix API endpoint
+Activity on 2023-12-01T00:00:00 - Refactor core logic
