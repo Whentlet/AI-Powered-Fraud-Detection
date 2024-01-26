@@ -175,3 +175,4 @@ Activity on 2024-01-23T00:00:00 - Improve error handling
 Activity on 2024-01-24T00:00:00 - Fix typo
 Activity on 2024-01-26T00:00:00 - Refactor utility functions
 Activity on 2024-01-26T00:00:00 - Fix minor bug
+Activity on 2024-01-26T00:00:00 - Add model training script
