@@ -195,3 +195,4 @@ Activity on 2024-03-11T00:00:00 - Update configuration
 Activity on 2024-03-11T00:00:00 - Clean up code
 Activity on 2024-03-12T00:00:00 - Add model training script
 Activity on 2024-03-14T00:00:00 - Fix API endpoint
+Activity on 2024-03-27T00:00:00 - Improve error handling
