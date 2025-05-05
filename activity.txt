@@ -376,3 +376,4 @@ Activity on 2025-04-29T00:00:00 - Fix API endpoint
 Activity on 2025-05-01T00:00:00 - Clean up code
 Activity on 2025-05-01T00:00:00 - Clean up code
 Activity on 2025-05-05T00:00:00 - Update requirements.txt
+Activity on 2025-05-05T00:00:00 - Refactor core logic
